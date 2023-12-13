@@ -1,2 +1,3 @@
 # NUEDC
-这是一个我准备全国大学生电子设计大赛的硬件模块PCB仓库，会渐渐更新
+
+Some hardware module for NUEDC, feel free to download if you you need it.
