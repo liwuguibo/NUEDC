@@ -1,4 +1,4 @@
-![X2_jac7ogDxeY](https://github.com/liwuguibo/NUEDC/assets/96286330/b640c821-41c6-4c33-a69b-bb76b26fe438)##Notion
+##Notion
 
 Suitable for all AMP with SOT-89 package
 
