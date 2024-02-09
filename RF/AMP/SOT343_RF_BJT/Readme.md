@@ -1,4 +1,4 @@
-##Notion
+# About this project
 
 This PCB is for BJT in SOT343 package, and functions as a common emitter amplifier. 
 
