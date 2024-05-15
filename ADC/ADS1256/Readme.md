@@ -5,4 +5,4 @@ All components are on the top layer so it is easy to solder.
 
 Power supply is integrated and it is widely input.
 
-Not verified yet and driver will be uploaded after verified.
+Not verified yet and driver program will be uploaded after verified.
