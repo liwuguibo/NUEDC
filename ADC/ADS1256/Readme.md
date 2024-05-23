@@ -6,3 +6,5 @@ All components are on the top layer so it is easy to solder.
 Power supply is integrated and it is widely input.
 
 Not verified yet and driver program will be uploaded after verified.
+
+Updata: Add ESD protection diode and make some changes in the footprint of STM32F103C8T6
