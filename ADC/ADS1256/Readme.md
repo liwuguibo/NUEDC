@@ -8,3 +8,5 @@ Power supply is integrated and it is widely input.
 Not verified yet and driver program will be uploaded after verified.
 
 Updata: Add ESD protection diode and make some changes in the footprint of STM32F103C8T6
+
+![Image](https://github.com/liwuguibo/NUEDC/blob/main/ADC/ADS1256/X2_FVS1K4wR2G.png)
