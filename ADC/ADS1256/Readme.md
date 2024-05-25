@@ -5,7 +5,7 @@ All components are on the top layer so it is easy to solder.
 
 Power management is integrated and it is widely input.
 
-It has benn verified.
+It has been verified.
 
 Update: Add ESD protection diode and make some changes in the footprint of STM32F103C8T6
 
